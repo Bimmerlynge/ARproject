@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: imageLib
+  m_EditorClassIdentifier: 
+  m_GuidLow: 0
+  m_GuidHigh: 0
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5425904330040352883
+      m_GuidHigh: 2579312925564439688
+    m_SerializedTextureGuid:
+      m_GuidLow: 15349644533615568042
+      m_GuidHigh: 9789365946883661595
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monster02
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4826880837783322005
+      m_GuidHigh: 2551698935986616971
+    m_SerializedTextureGuid:
+      m_GuidLow: 8787692770385823520
+      m_GuidHigh: 769879438687766040
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monster03
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5727305630237357315
+      m_GuidHigh: 4002333442244951705
+    m_SerializedTextureGuid:
+      m_GuidLow: 4369780563787078130
+      m_GuidHigh: 13557440132774121483
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monster04
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4958275040186812355
+      m_GuidHigh: 9945640221801752205
+    m_SerializedTextureGuid:
+      m_GuidLow: 8598599640072733233
+      m_GuidHigh: 12560070556312304361
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monster06
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5668895522701038568
+      m_GuidHigh: 18269009034853570215
+    m_SerializedTextureGuid:
+      m_GuidLow: 14714562812704494359
+      m_GuidHigh: 211202470763321032
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monster07
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5558168133636170284
+      m_GuidHigh: 1111771597009854106
+    m_SerializedTextureGuid:
+      m_GuidLow: 16916776470743958621
+      m_GuidHigh: 6983743394454830392
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monster08
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4896140399929117847
+      m_GuidHigh: 1962625026871551930
+    m_SerializedTextureGuid:
+      m_GuidLow: 1361294824204849669
+      m_GuidHigh: 1111100641155357547
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monster09
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5239902085888908600
+      m_GuidHigh: 1563592812967149464
+    m_SerializedTextureGuid:
+      m_GuidLow: 2613388358994419649
+      m_GuidHigh: 6268646255343712299
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: monsterbilled
+    m_Texture: {fileID: 0}
