@@ -1,0 +1,34 @@
+{
+    "name": "UserActions",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "bf587a13-84ab-480d-afb9-fe51f4db933e",
+            "actions": [
+                {
+                    "name": "Position",
+                    "type": "Value",
+                    "id": "45e0cc40-88d2-41b9-8f5e-70535b9c793a",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f3a3d74a-b664-401c-a133-23e1a35d51c8",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
